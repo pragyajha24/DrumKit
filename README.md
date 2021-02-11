@@ -1,2 +1,2 @@
 # DrumKit
-Drum Kit is a simple game drums with musci.
+Drum Kit is a simple game drums with music.
